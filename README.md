@@ -2,7 +2,7 @@
 Perform linear regression technique with different gradient descent algorithms
 
 # Gradient Descent algorithms used
-Batch gradient descent 
+Batch gradient descent and
 Stochastic gradient descent 
 
 # GENDATA.py 
